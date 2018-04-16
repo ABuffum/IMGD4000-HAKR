@@ -1,0 +1,567 @@
+﻿Log file open, 04/16/18 16:35:58
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ClickMove4000
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(452314803) SRandInit(452314803).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 7.407850
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.16-20.36.06:741][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.16-20.36.06:741][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.16-20.36.06:897][  0]LogInit: Computer: AIDAN-INSPIRON
+[2018.04.16-20.36.06:897][  0]LogInit: User: damou
+[2018.04.16-20.36.06:897][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.16-20.36.06:897][  0]LogInit: High frequency timer resolution =2.531252 MHz
+[2018.04.16-20.36.06:897][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.04.16-20.36.06:897][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.16-20.36.06:897][  0]LogMemory: Process Physical Memory: 275.96 MB used, 275.96 MB peak
+[2018.04.16-20.36.06:897][  0]LogMemory: Process Virtual Memory: 269.96 MB used, 269.96 MB peak
+[2018.04.16-20.36.06:897][  0]LogMemory: Physical Memory: 6896.43 MB used,  1168.52 MB free, 8064.96 MB total
+[2018.04.16-20.36.06:897][  0]LogMemory: Virtual Memory: 678.19 MB used,  1168.52 MB free, 134217728.00 MB total
+[2018.04.16-20.36.11:083][  0]LogInit: Using OS detected language (en-US).
+[2018.04.16-20.36.11:084][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.16-20.36.11:558][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.16-20.36.16:625][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.16-20.36.18:361][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2018.04.16-20.36.18:362][  0]LogD3D11RHI:       4065/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.04.16-20.36.18:381][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.04.16-20.36.18:381][  0]LogD3D11RHI:       128/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.16-20.36.18:453][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.16-20.36.18:453][  0]LogD3D11RHI:       0/0/4032 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.16-20.36.18:453][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.16-20.36.18:472][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.16-20.36.18:487][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2018.04.16-20.36.18:487][  0]LogWindows: EnumDisplayDevices:
+[2018.04.16-20.36.18:487][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.04.16-20.36.18:487][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:1)
+[2018.04.16-20.36.18:487][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.04.16-20.36.18:488][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.16-20.36.18:488][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2018.04.16-20.36.18:488][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.16-20.36.18:488][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.16-20.36.18:488][  0]LogRHI: Texture pool is 2846 MB (70% of 4065 MB)
+[2018.04.16-20.36.19:663][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.16-20.36.21:967][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 11)
+[2018.04.16-20.36.22:511][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Intermediate/Shaders/WorkingDirectory/38976/).
+[2018.04.16-20.36.22:511][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/damou/AppData/Local/Temp/UnrealShaderWorkingDir/70069DC64B68B33E8D84D19831A99B43/'.
+[2018.04.16-20.36.23:240][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.16-20.36.37:076][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.16-20.36.37:170][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.16-20.36.37:256][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.16-20.36.37:350][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.16-20.36.37:571][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.16-20.36.37:669][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.16-20.36.37:771][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.16-20.36.37:871][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.16-20.36.37:954][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.16-20.36.38:051][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.16-20.36.38:140][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.16-20.36.38:232][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.16-20.36.38:336][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.16-20.36.38:522][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.16-20.36.38:829][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.16-20.36.38:829][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.16-20.36.39:068][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.16-20.36.39:220][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.16-20.36.39:478][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.16-20.36.39:576][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.16-20.36.39:688][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.16-20.36.39:822][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.16-20.36.40:074][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.16-20.36.40:214][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.16-20.36.40:215][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.16-20.36.43:768][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.16-20.36.45:318][  0]LogDerivedDataCache: Loaded boot cache 1.53s 79MB C:/Users/damou/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.16-20.36.45:318][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/damou/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.16-20.36.45:318][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.16-20.36.45:318][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.16-20.36.45:319][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.16-20.36.45:319][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.16-20.36.45:434][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.16-20.36.45:493][  0]LogDerivedDataCache: Using Local data cache path C:/Users/damou/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.16-20.36.45:600][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.16-20.36.45:728][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.16-20.36.45:856][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.16-20.36.45:856][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.16-20.36.57:022][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.16-20.37.01:582][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.16-20.37.01:743][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.16-20.37.01:744][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.16-20.37.01:744][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.16-20.37.01:744][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.16-20.37.01:744][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.16-20.37.02:748][  0]LogNetVersion: ClickMove4000 , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3424666734)
+[2018.04.16-20.37.05:988][  0]LogAssetRegistry: FAssetRegistry took 0.0372 seconds to start up
+[2018.04.16-20.37.26:070][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 2.021236 seconds
+[2018.04.16-20.37.26:584][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.16-20.37.26:608][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.04.16-20.37.26:608][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.16-20.37.26:792][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.16-20.38.47:333][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.16-20.38.47:466][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.16-20.38.51:284][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.16-20.38.54:659][  0]SourceControl: Source control is disabled
+[2018.04.16-20.38.54:672][  0]SourceControl: Source control is disabled
+[2018.04.16-20.38.54:924][  0]SourceControl: Source control is disabled
+[2018.04.16-20.38.55:110][  0]SourceControl: Source control is disabled
+[2018.04.16-20.38.59:208][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.16-20.39.00:049][  0]LogOcInput: OculusInput pre-init called
+[2018.04.16-20.39.02:558][  0]LogEngine: Initializing Engine...
+[2018.04.16-20.39.02:738][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.16-20.39.05:143][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.16-20.39.05:174][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.16-20.39.09:074][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.16-20.39.10:268][  0]LogInit: XAudio2 using 'Headphones (Grind Wireless Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-20.39.10:495][  0]LogInit: FAudioDevice initialized.
+[2018.04.16-20.39.11:750][  0]LogDerivedDataCache: Saved boot cache 1.22s 79MB C:/Users/damou/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.16-20.39.11:785][  0]LogInit: Texture streaming: Enabled
+[2018.04.16-20.39.13:915][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.16-20.39.15:033][  0]LogInit: Transaction tracking system initialized
+[2018.04.16-20.39.16:874][  0]BlueprintLog: New page: Editor Load
+[2018.04.16-20.39.21:847][  0]LocalizationService: Localization service is disabled
+[2018.04.16-20.39.25:696][  0]LogConsoleResponse: Display: 
+[2018.04.16-20.39.32:109][  0]LogFileCache: Scanning file cache for directory 'C:/Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/' took 0.04s
+[2018.04.16-20.39.32:109][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.16-20.39.32:109][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.16-20.39.32:133][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.16-20.39.41:579][  0]SourceControl: Source control is disabled
+[2018.04.16-20.39.41:712][  0]Cmd: MAP LOAD FILE="../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.16-20.39.41:770][  0]LightingResults: New page: Lighting Build
+[2018.04.16-20.39.42:605][  0]MapCheck: New page: Map Check
+[2018.04.16-20.39.42:605][  0]LightingResults: New page: Lighting Build
+[2018.04.16-20.40.03:380][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.04.16-20.40.05:030][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.16-20.40.05:230][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.16-20.40.05:364][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 133.62ms to complete.
+[2018.04.16-20.40.05:365][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 23.696
+[2018.04.16-20.40.11:328][  0]LogCollectionManager: Loaded 0 collections in 0.003569 seconds
+[2018.04.16-20.40.12:345][  0]LogFileCache: Scanning file cache for directory 'C:/Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/Collections/' took 0.01s
+[2018.04.16-20.40.12:345][  0]LogFileCache: Scanning file cache for directory 'C:/Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/Developers/damou/Collections/' took 0.01s
+[2018.04.16-20.40.12:345][  0]LogFileCache: Scanning file cache for directory 'C:/Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/Collections/' took 0.01s
+[2018.04.16-20.40.12:345][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.16-20.40.12:446][  0]LogContentBrowser: Native class hierarchy populated in 0.0592 seconds. Added 2363 classes and 519 folders.
+[2018.04.16-20.40.12:944][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.16-20.40.19:925][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.04.16-20.40.20:223][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.04.16-20.40.22:670][  0]LogSlate: Took 0.030043 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.16-20.40.22:787][  0]LogSlate: Took 0.015957 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.16-20.40.23:043][  0]LogSlate: Took 0.049131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.16-20.40.24:096][  0]LogRenderer: Reallocating scene render targets to support 744x424 Format 10 NumSamples 1 (Frame:1).
+[2018.04.16-20.40.28:087][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2018.04.16-20.40.28:087][  0]LogLoad: (Engine Initialization) Total time: 301.71 seconds
+[2018.04.16-20.40.28:087][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.16-20.40.28:127][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.04.16-20.40.28:127][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.04.16-20.40.29:660][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.16-20.40.30:827][  1]LogSlate: Took 0.029493 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.16-20.40.31:927][  3]LogAssetRegistry: Asset discovery search completed in 205.9626 seconds
+[2018.04.16-20.40.31:993][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.04.16-20.40.31:994][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.028155 seconds (updated 0 objects)
+[2018.04.16-20.41.11:376][725]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2018.04.16-20.41.14:584][726]LogEditorViewport: Clicking on Actor (context menu): Puzzle_1_C (Puzzle_1)
+[2018.04.16-20.41.16:508][726]LogEditorViewport: Clicking on Actor (context menu): Puzzle_1_C (Puzzle_1)
+[2018.04.16-20.41.33:618][263]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (Trigger_Bathroom)
+[2018.04.16-20.41.46:673][713]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.16-20.41.51:345][871]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.16-20.41.52:413][871]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.16-20.41.52:744][871]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 116 classes and 0 folders.
+[2018.04.16-20.41.55:669][871]LogSlate: Took 0.040800 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.16-20.41.56:456][872]LogSlate: Took 0.019217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.16-20.51.35:067][126]LogSavePackage: Save=9487.33ms
+[2018.04.16-20.51.35:405][126]LogSavePackage: Moving '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/TopDownExampleMap_Auto1AA1899034CDA9040AD5BA4BE6D699957.tmp' to '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap'
+[2018.04.16-20.51.35:504][126]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto1.umap
+[2018.04.16-20.51.35:732][126]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 12.044
+[2018.04.16-20.51.35:732][126]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 12.044
+[2018.04.16-20.54.01:925][371]BlueprintLog: New page: Compile TopDownExampleMap
+[2018.04.16-20.54.06:227][382]LogSavePackage: Save=764.15ms
+[2018.04.16-20.54.06:227][382]LogSavePackage: Moving '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/TopDownExampleMap9BC09B12456D1E6B403170AD64BF8FBC.tmp' to '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.04.16-20.54.06:231][382]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.04.16-20.54.06:277][382]LogFileHelpers: Saving map 'TopDownExampleMap' took 3.507
+[2018.04.16-21.04.03:613][845]LogSavePackage: Save=679.60ms
+[2018.04.16-21.04.03:613][845]LogSavePackage: Moving '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/TopDownExampleMap_Auto26AA838EA45364F02EA3A43AFF940B83F.tmp' to '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap'
+[2018.04.16-21.04.03:623][845]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto2.umap
+[2018.04.16-21.04.03:628][845]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 1.120
+[2018.04.16-21.04.03:629][845]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.120
+[2018.04.16-21.04.03:635][845]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDownBP/Blueprints/Character] ([1] browsable assets)...
+[2018.04.16-21.04.03:751][845]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDownBP/Blueprints/Character.Character]
+[2018.04.16-21.04.03:752][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/Character]
+[2018.04.16-21.04.03:898][845]LogSavePackage: Save=137.02ms
+[2018.04.16-21.04.03:898][845]LogSavePackage: Moving '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/Character_Auto2E3BD83D64AA4357C512BF3A0BB99C8EA.tmp' to '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/Autosaves/Game/TopDownBP/Blueprints/Character_Auto2.uasset'
+[2018.04.16-21.04.03:902][845]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/Autosaves/Game/TopDownBP/Blueprints/Character_Auto2.uasset
+[2018.04.16-21.04.03:902][845]LogFileHelpers: Auto-saving content packages took 0.270
+[2018.04.16-21.06.27:748][841]BlueprintLog: New page: Compile Character
+[2018.04.16-21.06.29:833][895]LogSavePackage: Save=106.33ms
+[2018.04.16-21.06.29:833][895]LogSavePackage: Moving '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/Character91EB60054DFBA28944DCA58B06D196B8.tmp' to '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Blueprints/Character.uasset'
+[2018.04.16-21.06.29:838][895]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Blueprints/Character.uasset
+[2018.04.16-21.06.54:294][348]LogEditorTransaction: Undo Resize Node
+[2018.04.16-21.08.54:143][756]BlueprintLog: New page: Compile Character
+[2018.04.16-21.08.55:401][790]LogSavePackage: Save=104.22ms
+[2018.04.16-21.08.55:401][790]LogSavePackage: Moving '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/CharacterF912121E4A533E61C8F88A9B39395BC1.tmp' to '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Blueprints/Character.uasset'
+[2018.04.16-21.08.55:404][790]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Blueprints/Character.uasset
+[2018.04.16-21.09.08:572][318]LogMetaData: Removing '/Game/TopDownBP/Blueprints/CharacterBP.CharacterBP_C' ref from Metadata '/Game/TopDownBP/Blueprints/Character.PackageMetaData'
+[2018.04.16-21.09.08:572][318]LogMetaData: Removing '/Game/TopDownBP/Blueprints/CharacterBP.SKEL_CharacterBP_C' ref from Metadata '/Game/TopDownBP/Blueprints/Character.PackageMetaData'
+[2018.04.16-21.09.08:893][318]LogSavePackage: Save=106.26ms
+[2018.04.16-21.09.08:893][318]LogSavePackage: Moving '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/CharacterBP2A0FC81C4B9E2E4C9B4C9A8258B0FA27.tmp' to '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Blueprints/CharacterBP.uasset'
+[2018.04.16-21.09.08:901][318]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Blueprints/CharacterBP.uasset
+[2018.04.16-21.09.08:924][318]LogSavePackage: Save=4.44ms
+[2018.04.16-21.09.08:924][318]LogSavePackage: Moving '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/CharacterAA0682244444E5522F84268AF29D2791.tmp' to '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Blueprints/Character.uasset'
+[2018.04.16-21.09.08:929][318]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Blueprints/Character.uasset
+[2018.04.16-21.10.41:976][547]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.16-21.11.21:367][848]BlueprintLog: New page: Compile CharacterBP
+[2018.04.16-21.11.33:369][674]LogSavePackage: Save=97.97ms
+[2018.04.16-21.11.33:369][674]LogSavePackage: Moving '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/CharacterBPBEBF0EE748AC7F04D1D0D191D1F5A9C3.tmp' to '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Blueprints/CharacterBP.uasset'
+[2018.04.16-21.11.33:372][674]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Blueprints/CharacterBP.uasset
+[2018.04.16-21.11.51:511][603]BlueprintLog: New page: Compile TopDownExampleMap
+[2018.04.16-21.14.16:792][323]LogEditorTransaction: Undo Move Nodes
+[2018.04.16-21.15.40:030][ 94]LogEditorTransaction: Undo Create Pin Link
+[2018.04.16-21.15.40:836][130]LogEditorTransaction: Undo Create Pin Link
+[2018.04.16-21.15.41:849][186]LogEditorTransaction: Undo Add Node
+[2018.04.16-21.16.35:333][159]LogSavePackage: Save=697.85ms
+[2018.04.16-21.16.35:333][159]LogSavePackage: Moving '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/TopDownExampleMap_Auto3B08F8141488EEE40D086F19697CD83F4.tmp' to '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap'
+[2018.04.16-21.16.35:337][159]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto3.umap
+[2018.04.16-21.16.35:342][159]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 0.785
+[2018.04.16-21.16.35:342][159]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.785
+[2018.04.16-21.16.35:346][159]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDownBP/Blueprints/TopDownGameMode] ([1] browsable assets)...
+[2018.04.16-21.16.35:346][159]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDownBP/Blueprints/TopDownGameMode]
+[2018.04.16-21.16.35:406][159]LogSavePackage: Save=51.17ms
+[2018.04.16-21.16.35:406][159]LogSavePackage: Moving '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/TopDownGameMode_Auto316F53DD84937045AD7E63AB83CE86C90.tmp' to '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownGameMode_Auto3.uasset'
+[2018.04.16-21.16.35:408][159]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/Autosaves/Game/TopDownBP/Blueprints/TopDownGameMode_Auto3.uasset
+[2018.04.16-21.16.35:408][159]LogFileHelpers: Auto-saving content packages took 0.064
+[2018.04.16-21.19.46:080][615]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.04.16-21.19.47:174][644]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.04.16-21.20.45:286][107]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.16-21.21.05:246][ 56]Cmd: DELETE
+[2018.04.16-21.21.05:246][ 56]Cmd: ACTOR DELETE
+[2018.04.16-21.21.05:953][ 56]LogEditorActor: Deleted Actor: TriggerVolume
+[2018.04.16-21.21.05:988][ 56]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2018.04.16-21.24.36:739][ 44]Cmd: DELETE
+[2018.04.16-21.24.36:739][ 44]Cmd: ACTOR DELETE
+[2018.04.16-21.24.36:743][ 44]LogEditorActor: Deleted Actor: CameraActor
+[2018.04.16-21.24.36:797][ 44]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2018.04.16-21.26.01:054][608]BlueprintLog: New page: Compile TopDownExampleMap
+[2018.04.16-21.26.03:964][632]LogSavePackage: Save=713.57ms
+[2018.04.16-21.26.03:964][632]LogSavePackage: Moving '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/TopDownExampleMap16BBF73B4F291C99DF1EDD88105C9575.tmp' to '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.04.16-21.26.03:971][632]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.04.16-21.26.04:151][632]LogFileHelpers: Saving map 'TopDownExampleMap' took 2.104
+[2018.04.16-21.26.59:836][979]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-21.27.01:337][979]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.16-21.27.01:420][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-21.27.02:576][979]PIE: New page: PIE session: TopDownExampleMap (Apr 16, 2018, 1:27:01 PM)
+[2018.04.16-21.27.02:601][979]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.04.16-21.27.03:053][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.426212s)
+[2018.04.16-21.27.03:157][979]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.04.16-21.27.03:176][979]LogPlayLevel: PIE: World Init took: (0.122328s)
+[2018.04.16-21.27.03:178][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.578060s)
+[2018.04.16-21.27.03:865][979]LogInit: XAudio2 using 'Headphones (Grind Wireless Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-21.27.04:108][979]LogInit: FAudioDevice initialized.
+[2018.04.16-21.27.04:354][979]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.04.16-21.27.05:241][979]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.04.16-17.27.05
+[2018.04.16-21.27.05:367][979]LogWorld: Bringing up level for play took: 0.248643
+[2018.04.16-21.27.07:417][979]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0572 seconds. Added 11 classes and 0 folders.
+[2018.04.16-21.27.07:691][979]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 6.518
+[2018.04.16-21.27.07:692][979]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.16-21.27.28:248][514]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.16-21.27.28:922][514]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.16-21.27.40:009][811]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-21.27.40:032][811]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.16-21.27.40:032][811]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-21.27.40:032][811]PIE: New page: PIE session: TopDownExampleMap (Apr 16, 2018, 1:27:40 PM)
+[2018.04.16-21.27.40:032][811]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.04.16-21.27.40:097][811]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064521s)
+[2018.04.16-21.27.40:099][811]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.04.16-21.27.40:099][811]LogPlayLevel: PIE: World Init took: (0.001949s)
+[2018.04.16-21.27.40:100][811]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.067426s)
+[2018.04.16-21.27.40:130][811]LogInit: XAudio2 using 'Headphones (Grind Wireless Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-21.27.40:138][811]LogInit: FAudioDevice initialized.
+[2018.04.16-21.27.40:175][811]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.04.16-21.27.40:179][811]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.04.16-17.27.40
+[2018.04.16-21.27.40:180][811]LogWorld: Bringing up level for play took: 0.003912
+[2018.04.16-21.27.40:181][811]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 1.036
+[2018.04.16-21.27.40:181][811]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.16-21.27.53:585][227]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.16-21.27.53:680][227]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.16-21.28.00:050][352]LogSavePackage: Save=683.12ms
+[2018.04.16-21.28.00:050][352]LogSavePackage: Moving '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/TopDownExampleMap2F79FB9849905C9FCFB65BA741A38405.tmp' to '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2018.04.16-21.28.00:057][352]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Maps/TopDownExampleMap.umap
+[2018.04.16-21.28.00:082][352]LogFileHelpers: Saving map 'TopDownExampleMap' took 0.832
+[2018.04.16-21.28.00:125][352]LogSavePackage: Save=23.83ms
+[2018.04.16-21.28.00:125][352]LogSavePackage: Moving '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/TopDownGameMode748D8164459C524C89A23B9440D12F44.tmp' to '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Blueprints/TopDownGameMode.uasset'
+[2018.04.16-21.28.00:130][352]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Blueprints/TopDownGameMode.uasset
+[2018.04.16-21.28.00:665][368]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-21.28.00:693][368]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.16-21.28.00:694][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-21.28.00:694][368]PIE: New page: PIE session: TopDownExampleMap (Apr 16, 2018, 1:28:00 PM)
+[2018.04.16-21.28.00:695][368]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.04.16-21.28.00:739][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044556s)
+[2018.04.16-21.28.00:741][368]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.04.16-21.28.00:743][368]LogPlayLevel: PIE: World Init took: (0.003284s)
+[2018.04.16-21.28.00:744][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.049762s)
+[2018.04.16-21.28.00:773][368]LogInit: XAudio2 using 'Headphones (Grind Wireless Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-21.28.00:781][368]LogInit: FAudioDevice initialized.
+[2018.04.16-21.28.00:813][368]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.04.16-21.28.00:816][368]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.04.16-17.28.00
+[2018.04.16-21.28.00:817][368]LogWorld: Bringing up level for play took: 0.002923
+[2018.04.16-21.28.00:819][368]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap -0.326
+[2018.04.16-21.28.00:819][368]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.16-21.28.22:612][ 54]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.16-21.28.22:714][ 54]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.16-21.28.30:947][302]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.16-21.28.30:972][302]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.16-21.28.30:972][302]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.16-21.28.30:972][302]PIE: New page: PIE session: TopDownExampleMap (Apr 16, 2018, 1:28:30 PM)
+[2018.04.16-21.28.30:972][302]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2018.04.16-21.28.31:038][302]LogPlayLevel: PIE: StaticDuplicateObject took: (0.065623s)
+[2018.04.16-21.28.31:040][302]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.04.16-21.28.31:042][302]LogPlayLevel: PIE: World Init took: (0.004010s)
+[2018.04.16-21.28.31:042][302]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.070489s)
+[2018.04.16-21.28.31:075][302]LogInit: XAudio2 using 'Headphones (Grind Wireless Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.04.16-21.28.31:132][302]LogInit: FAudioDevice initialized.
+[2018.04.16-21.28.31:170][302]LogLoad: Game class is 'TopDownGameMode_C'
+[2018.04.16-21.28.31:173][302]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 60) at 2018.04.16-17.28.31
+[2018.04.16-21.28.31:174][302]LogWorld: Bringing up level for play took: 0.003031
+[2018.04.16-21.28.31:176][302]PIE: Play in editor start time for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap 0.03
+[2018.04.16-21.28.31:176][302]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.16-21.28.45:812][783]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.16-21.28.45:916][783]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap' with GeneratedClass '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap_C' with ClassGeneratedBy '/Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap'
+[2018.04.16-21.38.57:285][ 84]LogSavePackage: Save=1196.96ms
+[2018.04.16-21.38.57:285][ 84]LogSavePackage: Moving '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/TopDownExampleMap_Auto467F5A8A3497C5B4F6AF5CC885F1F46DE.tmp' to '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap'
+[2018.04.16-21.38.57:287][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/Autosaves/Game/TopDownBP/Maps/TopDownExampleMap_Auto4.umap
+[2018.04.16-21.38.57:294][ 84]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TopDownBP/Maps/TopDownExampleMap' took 1.420
+[2018.04.16-21.38.57:294][ 84]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.420
+[2018.04.16-21.39.13:834][549]LogEditorTransaction: Undo Paste clipboard contents
+[2018.04.16-21.39.15:432][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_ExecutionSequence /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_ExecutionSequence_1 or K2Node_ExecutionSequence /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_ExecutionSequence_1
+[2018.04.16-21.39.15:433][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_CallFunction_127 or K2Node_CallFunction /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_CallFunction_127
+[2018.04.16-21.39.15:433][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_VariableGet_16 or K2Node_VariableGet /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_VariableGet_16
+[2018.04.16-21.39.15:433][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_VariableSet_19 or K2Node_VariableSet /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_VariableSet_19
+[2018.04.16-21.39.15:433][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_CallFunction_200 or K2Node_CallFunction /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_CallFunction_200
+[2018.04.16-21.39.15:434][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_GetArrayItem /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_GetArrayItem_0 or K2Node_GetArrayItem /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_GetArrayItem_0
+[2018.04.16-21.39.15:434][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableSet /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_VariableSet_10 or K2Node_VariableSet /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_VariableSet_10
+[2018.04.16-21.39.15:434][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Knot /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_Knot_4 or K2Node_Knot /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_Knot_4
+[2018.04.16-21.39.15:435][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Knot /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_Knot_5 or K2Node_Knot /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_Knot_5
+[2018.04.16-21.39.15:435][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_CallFunction_475 or K2Node_CallFunction /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_CallFunction_475
+[2018.04.16-21.39.15:435][588]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_VariableGet_1 or K2Node_VariableGet /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap:PersistentLevel.TopDownExampleMap.EventGraph.K2Node_VariableGet_1
+[2018.04.16-21.47.29:758][119]LogSlate: Took 0.050844 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.16-21.47.36:492][338]BlueprintLog: New page: Compile CharacterBP
+[2018.04.16-21.47.57:964][204]BlueprintLog: New page: Compile CharacterBP
+[2018.04.16-21.48.00:207][258]LogSavePackage: Save=125.38ms
+[2018.04.16-21.48.00:207][258]LogSavePackage: Moving '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Saved/CharacterBP1FE6320F4DD942672949729A99A9F2BD.tmp' to '../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Blueprints/CharacterBP.uasset'
+[2018.04.16-21.48.00:214][258]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/damou/Documents/GitHub/IMGD4000-HAKR/ClickMove4000/Content/TopDownBP/Blueprints/CharacterBP.uasset
+[2018.04.16-21.48.02:973][359]LogUObjectArray: Warning: Other object in slot
+[2018.04.16-21.48.08:676][359]LogStats: FPlatformStackWalk::StackWalkAndDump -  5.684 s
+[2018.04.16-21.48.08:692][359]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.16-21.48.08:692][359]LogOutputDevice: Error: 
+[2018.04.16-21.48.08:692][359]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2018.04.16-21.48.08:692][359]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.04.16-21.48.08:692][359]LogOutputDevice: Error: Stack: 
+[2018.04.16-21.48.08:692][359]LogOutputDevice: Error: [Callstack] 0x000000002C872786 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.16-21.48.08:692][359]LogOutputDevice: Error: [Callstack] 0x000000002C61123A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.16-21.48.08:692][359]LogOutputDevice: Error: [Callstack] 0x000000002C62B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x0000000019B933F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x000000002D7D03AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x000000002AAE3EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x000000002A9774AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x000000002A97ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x000000002AAA8225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x000000002ADC7397 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x000000002ADCCE61 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x000000002B009913 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x000000002AE23484 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x000000002AE1D1F1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x000000002AE1C953 UE4Editor-Slate.dll!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x00000000F11369CA UE4Editor.exe!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x00000000F1145430 UE4Editor.exe!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x00000000F11454AA UE4Editor.exe!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x00000000F1152379 UE4Editor.exe!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x00000000F1153D57 UE4Editor.exe!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x0000000076CA1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: [Callstack] 0x000000007801EFC1 ntdll.dll!UnknownFunction []
+[2018.04.16-21.48.08:693][359]LogOutputDevice: Error: 
+[2018.04.16-21.48.08:694][359]LogStats:                SubmitErrorReport -  0.000 s
